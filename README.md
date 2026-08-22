@@ -156,7 +156,7 @@ This project can be extended by:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Khadija Ansari**
 
 Beginner Python Developer | Learning Python & Programming
 

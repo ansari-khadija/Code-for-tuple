@@ -1,4 +1,3 @@
-Absolutely — here’s a clean **GitHub README profile** based on your Python program, suitable for a beginner/student portfolio.
 
 # 🐍 Python Student Tuple Program
 

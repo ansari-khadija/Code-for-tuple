@@ -35,6 +35,19 @@ The purpose of this repository is to document my hands-on practice with Python t
 
 Each program represents a concept I learned and implemented in code.
 
+01 → Tuple Basics & Properties
+02 → Positive Indexing
+03 → Negative Indexing
+04 → Slicing
+05 → Tuple Methods
+06 → Tuple Operations
+07 → Packing & Unpacking
+08 → Nested Tuples
+09 → Tuples with Loops
+10 → Conditional Statements
+11 → Real-Life Application: Shopping Cart
+
+
 ----
 **Author**
 Khadija Ansari 

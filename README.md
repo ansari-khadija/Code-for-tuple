@@ -48,7 +48,7 @@ Each program represents a concept I learned and implemented in code.
 10 → Conditional Statements
 11 → Real-Life Application: Shopping Cart
 12 → Typecasting
-13 →Arithmatic
+13 →Arithmetic
 
 
 

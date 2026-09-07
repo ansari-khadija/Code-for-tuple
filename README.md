@@ -2,7 +2,7 @@
 
 A collection of Python programs created while learning and practicing the tuple data type.
 
-This repository contains 10 practice programs, organized from basic to advanced. Each program focuses on different tuple concepts and demonstrates their implementation through simple, practical examples.
+This repository contains full practice programs, organized from basic to advanced. Each program focuses on different tuple concepts and demonstrates their implementation through simple, practical examples.
 
 📚 Concepts Covered
 

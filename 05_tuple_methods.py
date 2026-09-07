@@ -1,8 +1,8 @@
-#List Methods
+#Tuple Methods
 
-subjects = ["Python", "Java", "Python", "C++", "SQL", "Python"]
+subjects = ("Python", "Java", "Python", "C++", "SQL", "Python")
 
-print("Original Subjects:", subjects)
+print("Subjects:", subjects)
 
 #count() method
 print("\n--- count() Method ---")
@@ -15,43 +15,18 @@ print("First occurrence of Python:", subjects.index("Python"))
 print("Position of Java:", subjects.index("Java"))
 print("Position of SQL:", subjects.index("SQL"))
 
-#append() method
-print("\n--- append() Method ---")
-subjects.append("HTML")
-print("After append:", subjects)
+#len() function
+print("\n--- len() Function ---")
+print("Number of subjects:", len(subjects))
 
-#insert() method
-print("\n--- insert() Method ---")
-subjects.insert(1, "CSS")
-print("After insert:", subjects)
+#Accessing elements using indexing
+print("\n--- Indexing ---")
+print("First subject:", subjects[0])
+print("Third subject:", subjects[2])
+print("Last subject:", subjects[5])
 
-#extend() method
-print("\n--- extend() Method ---")
-subjects.extend(["JavaScript", "PHP"])
-print("After extend:", subjects)
+Slicing
 
-#remove() method
-print("\n--- remove() Method ---")
-subjects.remove("PHP")
-print("After remove:", subjects)
-
-#pop() method
-print("\n--- pop() Method ---")
-removed_subject = subjects.pop()
-print("Removed subject:", removed_subject)
-print("After pop:", subjects)
-
-#sort() method
-print("\n--- sort() Method ---")
-subjects.sort()
-print("After sort:", subjects)
-
-#reverse() method
-print("\n--- reverse() Method ---")
-subjects.reverse()
-print("After reverse:", subjects)
-
-#clear() method
-print("\n--- clear() Method ---")
-subjects.clear()
-print("After clear:", subjects)
+print("\n--- Slicing ---")
+print("First three subjects:", subjects[0:3])
+print("Last three subjects:", subjects[3:6])

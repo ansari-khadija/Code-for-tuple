@@ -25,8 +25,7 @@ print("First subject:", subjects[0])
 print("Third subject:", subjects[2])
 print("Last subject:", subjects[5])
 
-Slicing
-
+#Slicing
 print("\n--- Slicing ---")
 print("First three subjects:", subjects[0:3])
 print("Last three subjects:", subjects[3:6])
